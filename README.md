@@ -8,7 +8,7 @@ Realizando transição de carreira.
 
 Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliapmarques&repo=juliapmarques.github.io)](https://github.com/juliapmarques/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juliapmarques&repo=juliapmarques.github.io)](https://github.com/juliapmarques/juliapmarques.github.io)
 
 #Contatos
 
